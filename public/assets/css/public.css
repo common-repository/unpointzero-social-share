@@ -1,0 +1,9 @@
+/* This stylesheet is used to style the public-facing components of the plugin. */
+
+#upzsocial_container { list-style:none; padding:0; margin:10px 0 0; clear:both; }
+	#upzsocial_container li { display:inline-block; margin:0 4px 0 0; }
+
+#upzsocial_container li.upzsocial_text { margin:0 8px 0 0; }
+.upzsocial_icons_center { text-align: center; }
+.upzsocial_icons_left { text-align: left; }
+.upzsocial_icons_right { text-align:right; }
